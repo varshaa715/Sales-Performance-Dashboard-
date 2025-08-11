@@ -35,3 +35,4 @@ Business Impact / Insights
    Improves transparency for stakeholders and team members
    Supports historical trend analysis for long-term project health monitoring
 
+Screenshot of the dashboard: 
