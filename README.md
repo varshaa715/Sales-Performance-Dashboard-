@@ -35,4 +35,4 @@ Business Impact / Insights
    Improves transparency for stakeholders and team members
    Supports historical trend analysis for long-term project health monitoring
 
-Screenshot of the dashboard: 
+Screenshot of the dashboard: https://github.com/varshaa715/Sales-Performance-Dashboard-/blob/main/Snapshot%20of%20the%20Sales_Performance_Dashboard.jpg 
